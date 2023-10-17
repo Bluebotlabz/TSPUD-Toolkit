@@ -2,6 +2,9 @@
 
 A series of Python scripts designed to fix a decompiled version of TSPUD so that it can be recompiled.
 
+Note: this is a very early Alpha, help is appreciated to improve these scripts
+
+
 ## What works?
 - Running TSPUD in-editor
 - TextMeshPro scripts working
@@ -13,6 +16,8 @@ A series of Python scripts designed to fix a decompiled version of TSPUD so that
 - Portals
 - Doors
 - Triggers (all types appear to be broken)
+- Sounds in many maps
+- Most map logic
 
 ## Usage
 ~~~
