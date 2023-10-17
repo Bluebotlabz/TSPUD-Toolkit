@@ -1,0 +1,3 @@
+unitypackage-extractor
+pyyaml
+tqdm
