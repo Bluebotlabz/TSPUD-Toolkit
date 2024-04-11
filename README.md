@@ -4,6 +4,10 @@ A series of Python scripts designed to fix a decompiled version of TSPUD so that
 
 Note: this is a very early Alpha, help is appreciated to improve these scripts
 
+~~~
+THIS PROJECT HAS BEEN DISCONTINUED AS I DO NOT HAVE THE TIME OR MOTIVATION TO WORK ON IT
+~~~
+
 
 ## What works?
 - Running TSPUD in-editor
